@@ -123,10 +123,10 @@ header nav i {
   height: 350px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   #about .imgbox {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     margin-right: 20px;
   }
 }
